@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+div#exterior {
+	border: 0px solid black;
+}
+
+div {
+	border: 0px solid red;
+}
+
+.btn {
+	background-color: green!Important;  
+}
+
